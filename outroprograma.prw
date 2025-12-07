@@ -18,4 +18,6 @@ User Function OtherP()
     
     FWAlertInfo("Passou aqui")
 
+    FWAlertInfo("Passou aqui 2")
+
 Return lRet			
