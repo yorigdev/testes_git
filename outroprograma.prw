@@ -14,8 +14,8 @@ Parametros--------: Nenhum
 Retorno-----------: lRet
 ===============================================================================================================================
 */
-User Function YoriPrin()
+User Function OtherP()
+    
+    FWAlertInfo("Passou aqui")
 
-    U_YoriTst() // Chamo auxiliar
-
-Return lRet		
+Return lRet			

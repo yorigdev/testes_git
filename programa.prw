@@ -58,6 +58,8 @@ User Function getFXP(vo)
 
     // Alteração 2
 
+    U_OtherP()
+
     (cAliasFXP)->(dbCloseArea())
 
 Return lRet			
