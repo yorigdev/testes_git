@@ -56,6 +56,8 @@ User Function getFXP(vo)
 
     //Só pra alterar o arquivo...
 
+    // Alteração 2
+
     (cAliasFXP)->(dbCloseArea())
 
 Return lRet			
