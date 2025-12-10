@@ -58,6 +58,8 @@ User Function getFXP(vo)
 
     // Alteração 2
 
+    // git tag v2.0...
+
     U_OtherP()
 
     (cAliasFXP)->(dbCloseArea())
